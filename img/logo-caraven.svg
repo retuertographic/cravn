@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Cara-Ven">
+  <defs>
+    <clipPath id="ring"><circle cx="60" cy="60" r="60"/></clipPath>
+  </defs>
+  <g clip-path="url(#ring)">
+    <circle cx="60" cy="60" r="60" fill="#0E2434"/>
+    <path d="M0 84c12 0 12-7 24-7s12 7 24 7 12-7 24-7 12 7 24 7 12-7 24-7v40H0Z" fill="#17607A" opacity=".85"/>
+    <path d="M0 95c12 0 12-7 24-7s12 7 24 7 12-7 24-7 12 7 24 7 12-7 24-7v33H0Z" fill="#0B3B50"/>
+    <circle cx="60" cy="60" r="56" fill="none" stroke="#F0A32B" stroke-width="2.5" opacity=".9"/>
+    <text x="60" y="62" text-anchor="middle" font-family="Georgia, 'Playfair Display', serif" font-size="40" font-weight="700" fill="#FFC761" letter-spacing="1">CV</text>
+    <text x="60" y="76" text-anchor="middle" font-family="Poppins, Helvetica, Arial, sans-serif" font-size="9.5" font-weight="600" fill="#FBF3E7" letter-spacing="2.4">CARA-VEN</text>
+  </g>
+</svg>
